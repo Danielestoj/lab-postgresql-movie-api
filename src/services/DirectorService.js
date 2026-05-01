@@ -1,4 +1,3 @@
-// src/services/DirectorService.js
 const pool = require('../config/db')
 
 class DirectorService {
